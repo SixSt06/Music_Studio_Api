@@ -1,0 +1,12 @@
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\bin\Debug\net7.0\Music.Studio.Core.deps.json
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\bin\Debug\net7.0\Music.Studio.Core.dll
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\bin\Debug\net7.0\Music.Studio.Core.pdb
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.AssemblyInfoInputs.cache
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.AssemblyInfo.cs
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.csproj.CoreCompileInputs.cache
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.dll
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\refint\Music.Studio.Core.dll
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.pdb
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\ref\Music.Studio.Core.dll
+C:\Users\sixst\RiderProjects\Music.Studio\Music.Studio.Core\obj\Debug\net7.0\Music.Studio.Core.csproj.AssemblyReference.cache

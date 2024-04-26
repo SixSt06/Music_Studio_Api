@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GwVOgkWCmggVnakkjULRZXGihAmKG5C9aw96yQtsr10=",
+  "Source": "Music.Studio.Api",
+  "BasePath": "_content/Music.Studio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

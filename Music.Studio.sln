@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Studio.Api", "Music.Studio.Api\Music.Studio.Api.csproj", "{1851DE96-A843-4F07-9774-83943D89FA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Music.Studio.Core", "Music.Studio.Core\Music.Studio.Core.csproj", "{D730EEEA-F7F5-462E-A473-A86AB861ABC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1851DE96-A843-4F07-9774-83943D89FA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1851DE96-A843-4F07-9774-83943D89FA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1851DE96-A843-4F07-9774-83943D89FA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1851DE96-A843-4F07-9774-83943D89FA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D730EEEA-F7F5-462E-A473-A86AB861ABC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D730EEEA-F7F5-462E-A473-A86AB861ABC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D730EEEA-F7F5-462E-A473-A86AB861ABC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D730EEEA-F7F5-462E-A473-A86AB861ABC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
